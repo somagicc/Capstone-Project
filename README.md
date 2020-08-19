@@ -18,6 +18,7 @@ Or just continue here.
 7. [Algorithms Used](#section7)
 8. [Comparison of Models](#section8)
 9. [ROC Curve Analysis](#section9)
+10. [Python Notebook](#section10)
 -------
 <a id=section1></a>
 ## 1. About the Data
@@ -73,4 +74,7 @@ Clearly Random Forest is outperforming the others.
 ## 9. ROC Curve Analysis
 ![](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/Images/ROC_Curve_Analysis.png)
 
+<a id=section10></a>
+## 10. Python Notebook
+Find all the codes [here.](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/Gender_Recognition_by_Voice.ipynb "here")
 Thank you!
