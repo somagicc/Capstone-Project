@@ -8,16 +8,19 @@ Watch the [presentation](https://docs.google.com/presentation/d/1huSoQE3e1uz74Ho
 You can also watch the elaborate [video ](https://www.youtube.com/watch?v=yUopC0USor4&t=137s "video ")presentation.
 
 Or just continue here.
-## About the data
-This database was created to identify a voice as male or female, based upon acoustic properties of the voice and speech. The dataset consists of 3,168 recorded voice samples, collected from male and female speakers. The voice samples are pre-processed by acoustic analysis in R using the seewave and tuneR packages, with an analyzed frequency range of 0hz-280hz (human vocal range).
+
+## 1. About the Data
+This database was created to identify a voice as male or female, based upon acoustic properties of the voice and speech. The dataset consists of 3,168 recorded voice samples, collected from male and female speakers. The voice samples are pre-processed by acoustic analysis in R using the seewave and tuneR packages, with an analyzed frequency range of 0 hz-280 hz (human vocal range).
 
 ## Problem Statement
 The goal is to build a model to predict to gender by speech analysis.
 
 ![](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/Images/Problem_Statement.gif)
+
 ## Applications
 Speech recognition has various applications including human to machine interaction, sorting of telephone calls by gender categorization, video categorization with tagging and so on.
 ![](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/Images/Application.png)
+
 ## Attributes of Data
 Find the attributes of the data [here](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/About%20the%20Data "here").
 
@@ -51,4 +54,4 @@ Clearly Random Forest is outperforming the others.
 ## ROC Curve Analysis
 ![](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/Images/ROC_Curve_Analysis.png)
 
-END.
+Thank you!
