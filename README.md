@@ -29,9 +29,25 @@ The voiced speech of a typical adult male will have a fundamental frequency from
 Initial distribution of the data was 50-50 as shown below.
 
 ## Algorithms Used
-I used five algorithms and then compared them on the basis of different model evaluation techniques. Algorithms used are
+I used five algorithms and then compared them on the basis of different model evaluation metrics. Algorithms used are:
 - Naive Bayes Classifier 
 - Logistic Regression
 - k-Nearest Neighbours
 - Decision Trees
 - Random Forest
+
+### Model Evaluation Metrics Used:
+- Recall
+- Precision
+- f1 Score
+- Accuracy
+
+## Comparison of Models
+![]()
+
+Clearly Random Forest is outperforming the others.
+
+## ROC Curve Analysis
+![]()
+
+END.
