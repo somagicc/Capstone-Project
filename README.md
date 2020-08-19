@@ -36,7 +36,7 @@ Speech recognition has various applications including human to machine interacti
 
 <a id=section4></a>
 ## 4. Attributes of Data
-Find the attributes of the data [here](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/About%20the%20Data "here").
+Find the attributes of the data [here](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/About%20the%20data.md "here").
 
 <a id=section5></a>
 ## 5. Pre-Processing Data
