@@ -27,6 +27,7 @@ The voiced speech of a typical adult male will have a fundamental frequency from
 
 ## Distribution of Data
 Initial distribution of the data was 50-50 as shown below.
+![](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/Images/Initial%20Distribution%20of%20Gender.png)
 
 ## Algorithms Used
 I used five algorithms and then compared them on the basis of different model evaluation metrics. Algorithms used are:
@@ -43,11 +44,11 @@ I used five algorithms and then compared them on the basis of different model ev
 - Accuracy
 
 ## Comparison of Models
-![]()
+![](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/Images/Comparison%20of%20models.png)
 
 Clearly Random Forest is outperforming the others.
 
 ## ROC Curve Analysis
-![]()
+![](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/Images/ROC_Curve_Analysis.png)
 
 END.
